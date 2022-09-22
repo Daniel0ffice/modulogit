@@ -1,2 +1,2 @@
-algo
-foi mudado
+algo;
+foi mudado;
